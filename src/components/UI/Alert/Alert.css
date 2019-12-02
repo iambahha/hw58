@@ -1,0 +1,34 @@
+.Alert {
+    background: #fff;
+    padding: 25px 55px 25px 15px;
+    margin-bottom: 20px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.warning {
+    background: #ff9966
+}
+
+.success {
+    background: #99cc33
+}
+
+.primary {
+    background: blue;
+}
+
+.danger {
+    background: #cc3300
+}
+
+.btn-dismiss {
+    position: absolute;
+    top: 23px;
+    right: 15px;
+    padding: 5px 10px;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
